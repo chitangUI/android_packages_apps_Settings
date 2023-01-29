@@ -43,9 +43,14 @@ public class LineageVersionDetailPreferenceController extends BasePreferenceCont
 
     private static final String KEY_LINEAGE_VERSION_PROP = "ro.lineage.display.version";
 
-    private static final String PLATLOGO_PACKAGE_NAME = "org.lineageos.lineageparts";
+// BEGIN CHITANG UI
+    // private static final String PLATLOGO_PACKAGE_NAME = "org.lineageos.lineageparts";
+    // private static final String PLATLOGO_ACTIVITY_CLASS =
+    //         PLATLOGO_PACKAGE_NAME + ".logo.PlatLogoActivity";
+    private static final String PLATLOGO_PACKAGE_NAME = "chitangui.chitangui";
     private static final String PLATLOGO_ACTIVITY_CLASS =
-            PLATLOGO_PACKAGE_NAME + ".logo.PlatLogoActivity";
+            PLATLOGO_PACKAGE_NAME + ".fun.FunActivity";
+// END CHITANG UI
 
     private final UserManager mUserManager;
     private final long[] mHits = new long[ACTIVITY_TRIGGER_COUNT];
