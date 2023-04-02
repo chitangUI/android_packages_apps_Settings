@@ -88,7 +88,6 @@
     <string name="touchscreen_gesture_settings_summary">Melakukan berbagai gerakan layar sentuh untuk tindakan cepat</string>
     <string name="touchscreen_hovering_title">Ambang jari di layar sentuh</string>
     <string name="touchscreen_hovering_summary">Mengizinkan Anda mengambang jari di atas layar seperti menggunakan tetikus dalam peramban web, destop jarak jauh, dll</string>
-    <string name="volume_link_notification_title">Hubungkan volume dering &amp; pemberitahuan</string>
     <string name="wake_when_plugged_or_unplugged_title">Bangun saat pengisi daya di pasang</string>
     <string name="wake_when_plugged_or_unplugged_summary">Aktifkan layar ketika menghubungkan atau melepaskan sumber daya</string>
     <string name="fast_charging_title">Pengisian daya cepat</string>
@@ -96,4 +95,5 @@
     <string name="ambient_display_screen_off_udfps_title" product="default">Tekan lama pada sensor sidik jari untuk membuka kunci ponsel</string>
     <string name="ambient_display_screen_off_udfps_title" product="tablet">Tekan lama pada sensor sidik jari untuk membuka kunci tablet</string>
     <string name="ambient_display_screen_off_udfps_title" product="device">Tekan lama pada sensor sidik jari untuk membuka kunci perangkat</string>
+    <string name="ambient_display_screen_off_udfps_summary">Untuk mengaktifkan layar dan membuka kunci, tekan lama sensor sidik jari di bawah layar.</string>
 </resources>
